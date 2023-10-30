@@ -2,10 +2,10 @@
    "KEY": 12345,
    "EXCHANGES": {
         "BYBIT": {
-             "API_KEY": "api-key-goes-here",
-             "API_SECRET": "api-secret-goes-here",
+             "API_KEY": "nPAoNWw42kGc2HojlO",
+             "API_SECRET": "ATKaw3a7KBPDHrXfQs4f4PYqtM1PnU7Hd2Dg",
              "ENABLED": true,
-             "TESTNET": false
+             "TESTNET": true
         },
         "binance-futures": {
              "API_KEY": "api-key-goes-here",
